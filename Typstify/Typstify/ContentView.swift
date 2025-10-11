@@ -467,6 +467,10 @@ struct ContentView: View {
                     Label("Insert Image", systemImage: "photo.badge.plus")
                 }).disabled(!documentOpen)
                 
+                PhotosPicker(selection: $insertingPhotoItem, label: {
+                    Label("Insert Sketch", systemImage: "pencil.and.scribble")
+                }).disabled(!documentOpen)
+                
                 Spacer()
                 
                 Toggle("Show Source", systemImage: "text.word.spacing", isOn: $showSource.animation())
