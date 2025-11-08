@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/krzyzanowskim/STTextKitPlus",
       "state" : {
-        "revision" : "ebc71aaa6137b45ad289d1faf6e7687b6b9488e9",
-        "version" : "0.1.9"
+        "revision" : "f5fb3c024f233bc8b14237a10a99bbc9c966c4dc",
+        "version" : "0.2.0"
       }
     },
     {
@@ -52,7 +52,7 @@
       "location" : "https://github.com/krzyzanowskim/STTextView",
       "state" : {
         "branch" : "main",
-        "revision" : "f96ded23b5e7387b545ba527601809ae87c26564"
+        "revision" : "32577f5f376ac78bd2b03e11b1e202000f0df824"
       }
     },
     {
@@ -70,7 +70,7 @@
       "location" : "https://github.com/krzyzanowskim/STTextView-Plugin-Neon",
       "state" : {
         "branch" : "main",
-        "revision" : "2ab8e7a99d2d1638ae05f91fdc823820c115b56b"
+        "revision" : "fbe09efa3142c76f7a0fd4631824995c71d46f37"
       }
     },
     {
@@ -96,8 +96,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/tree-sitter/tree-sitter",
       "state" : {
-        "revision" : "f2f197b6b27ce75c280c20f131d4f71e906b86f7",
-        "version" : "0.25.8"
+        "revision" : "da6fe9beb4f7f67beb75914ca8e0d48ae48d6406",
+        "version" : "0.25.10"
       }
     }
   ],
